@@ -7,7 +7,7 @@ Software Developer
 I am currently a student at Moscow State Technological University Stankin and I am receiving a bachelor's degree in Automation of Technological Processes and Productions. I have worked with video editing, 2D and 3D graphics. At the moment I'm learning more about programming.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [albert0zzz@yandex.ru](mailto:albert0zzz@yandex.ru)
+* ✉️  You can contact me at [albert0zzz.contact@gmail.com](mailto:albert0zzz.contact@gmail.com)
 * 🌱  I’m currently learning C++
 
 ### Skills
